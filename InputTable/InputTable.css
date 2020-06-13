@@ -1,0 +1,68 @@
+.SalvarButton{
+background-color:#32a895;
+color:white;
+float:right;
+font-size:18px;
+border:solid 0px black;
+margin-top: 10px;
+width:120px;
+padding-top:5px;
+padding-bottom:5px;
+
+
+
+}
+
+.SalvarButton:hover{
+background-color:white;
+color:#32a895
+
+
+}
+
+.AddButton{
+background-color:#32a895;
+color:white;
+font-size:18px;
+margin-top:10px;
+border:solid 0px black;
+width:35px;
+height:35px;
+
+
+}
+
+.AddButton:hover{
+background-color:white;
+color:#32a895
+
+}
+
+.TabelaDiv{
+max-height:80%; 
+overflow-y: scroll;
+}
+
+.Tabela {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.Tabela td, .Tabela th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.Tabela tr:nth-child(even){background-color: #f2f2f2;}
+
+.Tabela tr:hover {background-color: #ddd;}
+
+.Tabela th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+

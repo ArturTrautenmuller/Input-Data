@@ -1,0 +1,8 @@
+{
+	"name" : "InputTable",
+	"description" : "Input data on csv files in server",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "0.9.8",
+	"author": "Artur Schneider"
+}
